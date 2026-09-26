@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "packs": {
+    "saison-1": {
+      "version": "1.0.0",
+      "url": "https://github.com/ViperZek/MH-Packs/releases/download/saison-1-v1.0.0/saison-1.rar",
+      "size": 0,
+      "sha256": "A_REMPLACER"
+    },
+    "saison-2": {
+      "version": "1.0.0",
+      "url": "https://github.com/ViperZek/MH-Packs/releases/download/saison-2-v1.0.0/saison-2.rar",
+      "size": 0,
+      "sha256": "A_REMPLACER"
+    },
+    "saison-3": {
+      "version": "1.0.0",
+      "url": "https://github.com/ViperZek/MH-Packs/releases/download/saison-3-v1.0.0/saison-3.rar",
+      "size": 0,
+      "sha256": "A_REMPLACER"
+    },
+    "saison-4": {
+      "version": "1.0.0",
+      "url": "https://github.com/ViperZek/MH-Packs/releases/download/saison-4-v1.0.0/saison-4.rar",
+      "size": 0,
+      "sha256": "A_REMPLACER"
+    },
+    "saison-5": {
+      "version": "1.0.0",
+      "url": "https://github.com/ViperZek/MH-Packs/releases/download/saison-5-v1.0.0/saison-5.rar",
+      "size": 0,
+      "sha256": "A_REMPLACER"
+    },
+    "saison-6": {
+      "version": "1.0.0",
+      "url": "https://github.com/ViperZek/MH-Packs/releases/download/saison-6-v1.0.0/saison-6.rar",
+      "size": 0,
+      "sha256": "A_REMPLACER"
+    },
+    "saison-7": {
+      "version": "1.0.0",
+      "url": "https://github.com/ViperZek/MH-Packs/releases/download/saison-7-v1.0.0/saison-7.rar",
+      "size": 0,
+      "sha256": "A_REMPLACER"
+    },
+    "saison-8-tome-1": {
+      "version": "1.0.0",
+      "url": "https://github.com/ViperZek/MH-Packs/releases/download/saison-8-tome-1-v1.0.0/saison-8-tome-1.rar",
+      "size": 0,
+      "sha256": "A_REMPLACER"
+    },
+    "saison-8-tome-2": {
+      "version": "1.0.0",
+      "url": "https://github.com/ViperZek/MH-Packs/releases/download/saison-8-tome-2-v1.0.0/saison-8-tome-2.rar",
+      "size": 0,
+      "sha256": "A_REMPLACER"
+    },
+    "saison-8-tome-3": {
+      "version": "1.0.0",
+      "url": "https://github.com/ViperZek/MH-Packs/releases/download/saison-8-tome-3-v1.0.0/saison-8-tome-3.rar",
+      "size": 0,
+      "sha256": "A_REMPLACER"
+    },
+    "saison-9": {
+      "version": "1.0.0",
+      "url": "https://github.com/ViperZek/MH-Packs/releases/download/saison-9-v1.0.0/saison-9.rar",
+      "size": 0,
+      "sha256": "A_REMPLACER"
+    },
+    "saison-10": {
+      "version": "1.0.0",
+      "url": "https://github.com/ViperZek/MH-Packs/releases/download/saison-10-v1.0.0/saison-10.rar",
+      "size": 0,
+      "sha256": "A_REMPLACER"
+    },
+    "saison-11": {
+      "version": "1.0.0",
+      "url": "https://github.com/ViperZek/MH-Packs/releases/download/saison-11-v1.0.0/saison-11.rar",
+      "size": 0,
+      "sha256": "A_REMPLACER"
+    },
+    "saison-12": {
+      "version": "1.0.0",
+      "url": "https://github.com/ViperZek/MH-Packs/releases/download/saison-12-v1.0.0/saison-12.rar",
+      "size": 0,
+      "sha256": "A_REMPLACER"
+    },
+    "saison-13": {
+      "version": "1.0.0",
+      "url": "https://github.com/ViperZek/MH-Packs/releases/download/saison-13-v1.0.0/saison-13.rar",
+      "size": 0,
+      "sha256": "A_REMPLACER"
+    },
+    "saison-14": {
+      "version": "1.0.0",
+      "url": "https://github.com/ViperZek/MH-Packs/releases/download/saison-14-v1.0.0/saison-14.rar",
+      "size": 0,
+      "sha256": "A_REMPLACER"
+    },
+    "saison-15": {
+      "version": "1.0.0",
+      "url": "https://github.com/ViperZek/MH-Packs/releases/download/saison-15-v1.0.0/saison-15.rar",
+      "size": 0,
+      "sha256": "A_REMPLACER"
+    }
+  }
+}
