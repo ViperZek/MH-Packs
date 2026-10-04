@@ -98,10 +98,10 @@
       "sha256": "423fc7c5c6df935ff1a3bd0a1f61017da2429d47a7badb86a86680c5a1097b49"
     },
     "saison-15": {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "url": "https://github.com/ViperZek/MH-Packs/releases/download/saison-15-v1.0.0/saison-15.rar",
-      "size": 700251442,
-      "sha256": "67bf4682157bf8e84c4c5cbb624058a394cf81b1fb5102986c7584513dd04ce8"
+      "size": 749731840,
+      "sha256": "f23b365fd1809fe19477b3594e8609c94b332e63f77cde875fd491e4e97af51a"
     },
     "saison-19": {
       "version": "1.0.1",
