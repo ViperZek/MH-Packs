@@ -104,10 +104,10 @@
       "sha256": "da5af7f75473373b4a5fd07f0d045952a204a4d2e7074a7904f9012cb9508673"
     },
     "saison-19": {
-      "version": "1.0.1",
-      "url": "https://github.com/ViperZek/MH-Packs/releases?page=2#release-Saison_19_Pack_1.0.1",
-      "size": 700251442,
-      "sha256": "1e48ba5c50f5250d89e6ea612dca1d10b0990fb9ed8871d767e8d4933e942030"
+      "version": "1.0.2",
+      "url": "https://github.com/ViperZek/MH-Packs/releases/download/Saison_19_Pack_1.0.2/saison.19.-.Pack.1.0.2.rar",
+      "size": 164626432,
+      "sha256": "2df90a688d422ab89d596523c9331987b5b22f19d45f96ac2b2cb3f6819a4f1f"
     }
   }
 }
